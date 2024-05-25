@@ -3,3 +3,10 @@ orange
 
 pears
 mango
+
+
+rose
+jasmine
+
+dog
+cat
