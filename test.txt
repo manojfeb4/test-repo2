@@ -1,6 +1,3 @@
-apple
-orange
-
 pears
 mango
 
