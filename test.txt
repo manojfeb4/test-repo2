@@ -7,3 +7,6 @@ mango
 
 rose
 jasmine
+
+dog
+cat
